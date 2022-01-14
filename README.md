@@ -1,8 +1,11 @@
 # Mercado livre Challenge
 
 This repository host solutions for the Mercado Livre DS challenge in 2022.
+The challanges made where the following: 
 
-The challanges made where the following: 1, 2 and 4
+ - [Challenge 1](https://github.com/vitorhi/Desafio-ds-2022-Mercado-Livre/blob/main/Challenge1.ipynb)
+ - [Challenge 2](https://github.com/vitorhi/Desafio-ds-2022-Mercado-Livre/blob/main/Challenge2.ipynb)
+ - [Challenge 4](https://github.com/vitorhi/Desafio-ds-2022-Mercado-Livre/blob/main/Challenge4.ipynb)
 
 *Made by Vítor Ishikura*
  
